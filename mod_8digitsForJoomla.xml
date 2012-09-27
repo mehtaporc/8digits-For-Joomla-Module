@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+<name>8digits Monitoring Module For Joomla</name>
+<author>8digits</author>
+<authorUrl>http://www.8digits.com/web</authorUrl>
+<copyright>Copyright (C) 2012 . All rights reserved.</copyright>
+<creationDate>September 5 2012</creationDate>
+<version>1.0.0</version>
+<description>8digits monitoring module integration for joomla</description>
+<files>
+<filename module="mod_8digitsForJoomla">mod_8digitsForJoomla.php</filename>
+<filename>index.html</filename>
+<filename>helper.php</filename>
+<filename>tmpl/default.php</filename>
+<filename>tmpl/index.html</filename>
+</files>
+	<config>
+	<fields name="params">
+	 <fieldset name="basic">	
+		<field name="EightDigitsTrackingCode" type="text" label="Tracking Code :" description="Enter your 8digits Tracking Code" ></field>
+     </fieldset>
+	</fields>
+</config>
+</install>
