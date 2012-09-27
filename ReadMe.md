@@ -1,15 +1,19 @@
 Module: 8digits Monitoring Platform For Joomla
+
 Author: 8digits <http://www.8digits.com/web/>
 
-------DESCRIPTION------
+#DESCRIPTION
+
 Add to the 8digits Monitoring your website.
 
 
-------REQURIMENTS------
+#REQURIMENTS
+
 Tracking Code: Each application being tracked has its own unique tracking code.Tracking code will be provided by 8digits, and should be stored as a constant in your application.
 
 
------INSTALLATION-----
+#INSTALLATION
+
 1. Log in to your site's administration panel.
 2. Upload the 8digits module utilising the Joomla's extension manager facility which can be accessed by clicking on the Joomla's "extensions" menu. Just point to the zip file and upload it.
 2. Click on module manager, select 8digits for Joomla. You'll see the edit menu there. This will help you with choosing the position to place the tracking script. The appropriate position would be the "footer". 
