@@ -2,6 +2,11 @@ Module: 8digits Monitoring Platform For Joomla
 
 Author: 8digits <http://8digits.com>
 
+
+#DESCRIPTION
+
+This module helps you integrate Wordpress with 8digits behaviour management system.
+
 #INSTALLATION
 
 1. Log in to your site's administration panel.
