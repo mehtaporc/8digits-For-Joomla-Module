@@ -1,16 +1,6 @@
 Module: 8digits Monitoring Platform For Joomla
 
-Author: 8digits <http://www.8digits.com/web/>
-
-#DESCRIPTION
-
-Add to the 8digits Monitoring your website.
-
-
-#REQURIMENTS
-
-Tracking Code: Each application being tracked has its own unique tracking code.Tracking code will be provided by 8digits, and should be stored as a constant in your application.
-
+Author: 8digits <http://8digits.com>
 
 #INSTALLATION
 
