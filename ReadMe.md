@@ -5,7 +5,7 @@ Author: 8digits <http://8digits.com>
 
 #DESCRIPTION
 
-This module helps you integrate Wordpress with 8digits behaviour management system.
+This module helps you integrate Joomla with 8digits behaviour management system.
 
 #INSTALLATION
 
